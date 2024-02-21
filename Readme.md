@@ -1,1 +1,3 @@
-This is the demo project of the  student portfolio
+ # student   Portfolio
+
+ This is the dummy student portfolio which i am creating for learning
